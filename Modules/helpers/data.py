@@ -1,10 +1,10 @@
-GRP = "@kaalxsupport|@Astro_HelpChat"
+GRP = "@Dangi_S"
 
-GROUP = [-1001569474379, -1001359155814]
+GROUP = [-1001729016262]
 
-KAALX = [2068551800, 5174965229, 1366616835]
+KAALX = [6288596880]
 
-Owners = "@Hayat_Murat_30|@Alone_loverBoy|@status_star"
+Owners = "@mr_dangi"
 
 REPLYRAID = [
     "𝙈𝘼𝘿𝘼𝙍𝘾𝙃𝙊𝘿",
